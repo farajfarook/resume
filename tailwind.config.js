@@ -6,6 +6,8 @@ module.exports = {
       backgroundImage: theme => ({
         'pageup': "url('/img/pageup.jpg')",
         'carsales': "url('/img/carsales.jpg')",
+        'flip': "url('/img/flip.jpg')",
+        'ifs': "url('/img/ifs.jpg')",
       })
     },
   },
