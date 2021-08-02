@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.color-exact {
+    -webkit-print-color-adjust: exact;
+}
