@@ -33,7 +33,7 @@ module.exports = {
         ],
     },
     devServer: {
-        contentBase: path.resolve(__dirname, 'dist'),
-        watchContentBase: true,
+        static: path.resolve(__dirname, 'dist'),
+        hot: true,
     },
 };
