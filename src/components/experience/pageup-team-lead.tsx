@@ -26,7 +26,7 @@ const details: ReactElement[] = [
     (<p>Implement <span className="font-medium">agile practices and processes</span> to ensure delivery and product quality.</p>),
     (<p>Build close relationship with <span className="font-medium">Stakeholders, Product Managers and Cross Functional Team members</span> and to ensure alignment.</p>),
     (<p><span className="font-medium">Mentor and Coach Leads</span> and Engineers.</p>),
-    (<p><span className="font-medium">Set team objectives</span> and ensure it's alignment with technology and company vision.</p>)
+    (<p><span className="font-medium">Set team objectives</span> to alignment with tech and company vision.</p>)
 ]
 
 export function PageUpTeamLead() {
