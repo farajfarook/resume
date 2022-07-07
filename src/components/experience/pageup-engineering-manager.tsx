@@ -20,7 +20,7 @@ const keywords: KeywordsProps = {
 }
 
 const details: ReactElement[] = [
-    (<p><span className="font-medium">Lead a tribe of Engineering Teams</span>, with the focus on short to mid term revenue growth.</p>),
+    (<p><span className="font-medium">Lead a tribe of Engineering Teams (20+)</span>, with the focus on short to mid term revenue growth.</p>),
     (<p>Mentor &amp; Coach Managers and Engineers.</p>),
     (<p>Build <span className="font-medium">high performing - engaging</span> teams, with individual's growth and happiness.</p>),
     (<p>Defining <span className="font-medium">technology roadmap and vision</span>.</p>),
