@@ -5,8 +5,7 @@ export function Summary() {
                 <span className="iconify" data-icon="bx:bxs-quote-alt-left"></span>
             </span>
             <span className="text-sm">
-                Highly motivated, results oriented Development Manager with over 10+ years of experience and a
-                proven track record in technology, delivery and people leadership.
+                Highly motivated, results oriented Senior Engineering Manager with over decade of experience and a proven track record in technology, delivery and people leadership.
             </span>
         </div>
     )

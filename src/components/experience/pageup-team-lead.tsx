@@ -5,7 +5,7 @@ import { TitleProps } from "./template/title";
 
 const title: TitleProps = {
     company: "PageUp Ltd",
-    title: "Development Team Lead",
+    title: "Engineering Team Lead",
     from: "November 2020",
     to: "October 2021",
 }

@@ -5,7 +5,7 @@ import { TitleProps } from "./template/title";
 
 const title: TitleProps = {
     company: "PageUp Ltd",
-    title: "Development Manager",
+    title: "Senior Engineering Team Lead",
     from: "October 2021",
     to: "Present",
 }
@@ -21,7 +21,7 @@ const keywords: KeywordsProps = {
 
 const details: ReactElement[] = [
     (<p><span className="font-medium">Lead a tribe of Engineering Teams</span> (20+), with the focus on short to mid term revenue growth.</p>),
-    (<p>Mentor &amp; Coach Managers and Engineers.</p>),
+    (<p>Mentor &amp; Coach Engineering Managers.</p>),
     (<p>Build <span className="font-medium">high performing - engaging</span> teams, with individual's growth and happiness.</p>),
     (<p>Defining <span className="font-medium">technology roadmap and vision</span>.</p>),
     (<p>Managing expectations and actively communicating with <span className="font-medium">internal and external stakeholders</span> including partners and integration providers.</p>),
