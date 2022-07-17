@@ -13,7 +13,7 @@ export function Experience() {
                     <div className="bg-carsales color-exact bg-contain bg-center bg-no-repeat w-12 h-12 mt-1">
                     </div>
                     <div className="flex flex-col">
-                        <div className="text-lg font-bold">Engineering Team Lead</div>
+                        <div className="text-lg font-bold">Development Team Lead</div>
                         <div className="text-sm">Carsales.com.au Ltd</div>
                         <div className="text-xs">April 2019 - November 2020</div>
                     </div>
